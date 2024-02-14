@@ -1,0 +1,4 @@
+langchain
+datasets
+cassio
+PyPDF2
